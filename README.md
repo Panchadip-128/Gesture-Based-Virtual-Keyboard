@@ -27,10 +27,6 @@ This project is licensed under the MIT License. For more details, refer to the L
 
 ## Acknowledgments
 - Thanks to the MediaPipe and OpenCV communities for their valuable resources and documentation.
-- Special mention to contributors and supporters of this project.
-
-
-
 
 
 
